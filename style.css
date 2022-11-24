@@ -18,12 +18,12 @@ header
 }
 header div:nth-child(1)
 {
-    width: 400px;
+    width: 300px;
     height: 200px;
     margin-left: 50px;
     margin-top: 50px;
     /* border: 1px solid purple; */
-    background-image: url(images/background/main_background_image.jpg);
+    background-image: url(images/Logo/photo_2022-11-24_20-40-36.jpg);
     box-shadow: 10px 13px 24px 5px rgba(64,53,53,0.89);
 }
 header div:nth-child(2)
@@ -285,4 +285,3 @@ footer nav ul li
 {
     text-align: center;
 }
-

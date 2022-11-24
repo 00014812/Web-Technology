@@ -193,6 +193,88 @@ section:nth-child(3)
 {
     text-align: center;
 }
+
+.section7
+{
+    width: 950px;
+    height: 300px;
+    /* border: 1px solid black; */
+    display: inline-flex;
+    margin-left: 200px;
+}
+.section7 div
+{
+    width: 200px;
+    height: 275px;
+    margin: 12.5px; 
+    /* border: 5px solid blue; */
+    /* display: inline-flex; */
+}
+.section7 div img
+{
+    width: 180px;
+    height: 210px;
+    margin: 12.5px;  
+    /* display: inline-flex;  */
+}
+.section7 div p
+{
+    text-align: center;
+}
+.section8
+{
+    width: 950px;
+    height: 300px;
+    /* border: 1px solid black; */
+    display: inline-flex;
+    margin-left: 200px;
+}
+.section8 div
+{
+    width: 200px;
+    height: 275px;
+    margin: 12.5px; 
+    /* border: 5px solid blue; */
+    /* display: inline-flex; */
+}
+.section8 div img
+{
+    width: 180px;
+    height: 210px;
+    margin: 12.5px;  
+    /* display: inline-flex;  */
+}
+.section8 div p
+{
+    text-align: center;
+}
+.section9
+{
+    width: 950px;
+    height: 300px;
+    /* border: 1px solid black; */
+    display: inline-flex;
+    margin-left: 200px;
+}
+.section9 div
+{
+    width: 200px;
+    height: 275px;
+    margin: 12.5px; 
+    /* border: 5px solid blue; */
+    /* display: inline-flex; */
+}
+.section9 div img
+{
+    width: 180px;
+    height: 210px;
+    margin: 12.5px;  
+    /* display: inline-flex;  */
+}
+.section9 div p
+{
+    text-align: center;
+}
 footer
 {
     width: 1200px;
